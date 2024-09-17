@@ -9,3 +9,81 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+
+#red{
+  border-top-color: #f00;
+  display: inline-block;
+  min-width: 30cm;
+  max-width: 35cm;
+  border-radius: 50%;
+  border-left-color: transparent;
+  border-right-color: transparent ;
+  border-bottom-color: transparent;
+}
+
+#orange{
+  border-top-color: #ffa500 ;
+  display: inline-block ;
+  min-width: 30cm;
+  max-width:35cm ;
+  border-radius: 50%;
+  border-left-color:transparent ;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+}
+
+#yellow{
+  border-top-color:#ff0;
+  display: inline-block;
+  min-width: 30cm;
+  max-width: 35cm;
+  border-radius: 50%;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+}
+
+#green{
+  border-top-color: #00bc3f;
+  display: inline-block;
+  min-width: 30cm;
+  max-width: 35cm;
+  border-radius: 50%;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color:transparent ;
+}
+
+#blue{
+  border-top-color: #06f;
+  display: inline-block;
+  min-width: 30cm;
+  max-width:35cm ;
+  border-radius: 50% ;
+  border-left-color: transparent ;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+}
+
+#indigo{  
+  border-top-color: #8a2be2;
+  display: inline-block;
+  min-width: 30cm;
+  max-width: 35cm;
+  border-radius: 50% ;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color:transparent ;
+}
+
+#violet{
+  border-top-color:#d300c9;
+  display: inline-block;
+  min-width: 30cm;
+  max-width: 35cm;
+  border-radius:50% ;
+  border-left-color:transparent ;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+
+}

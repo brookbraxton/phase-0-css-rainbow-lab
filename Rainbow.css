@@ -1,0 +1,8 @@
+div{
+    border: 30px solid #000;
+    display: grid;
+    min-width: 25vw;
+    min-height: 25vh;
+    border-radius: 0%;
+    border-left: ;
+}
